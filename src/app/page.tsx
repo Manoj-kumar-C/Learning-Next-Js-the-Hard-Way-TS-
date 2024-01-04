@@ -1,9 +1,10 @@
 import React from 'react'
+import { AccordionDemo } from './shadcnui/AccorianDemo'
 
 function page() {
   return (
     <div>
-      <h1>Heading Page</h1>
+      <AccordionDemo />
     </div>
   )
 }
